@@ -26,3 +26,5 @@ Output: false
 
 ### Constraints:
 1 <= n <= 10**7
+
+![img.png](result_img/img1780.png)

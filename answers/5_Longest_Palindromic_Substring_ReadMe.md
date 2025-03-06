@@ -19,3 +19,5 @@ Output: "bb"
 
 1 <= s.length <= 1000  
 s consist of only digits and English letters.
+
+![img.png](result_img/img5.png)
