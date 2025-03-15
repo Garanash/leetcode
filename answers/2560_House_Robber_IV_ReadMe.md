@@ -1,6 +1,6 @@
 # 2560. House Robber IV
 
-Medium
+## <span style="color: yellow">Medium</span>
 
 There are several consecutive houses along a street, each of which has some money inside. There is also a robber, who wants to steal money from the homes, but he refuses to steal from adjacent homes.
 The capability of the robber is the maximum amount of money he steals from one house of all the houses he robbed.
@@ -33,3 +33,4 @@ Output: 2
 1 <= nums.length <= 10^5  
 1 <= nums[i] <= 10^9  
 1 <= k <= (nums.length + 1)/2
+![img2560.png](result_img/img2560.png)
