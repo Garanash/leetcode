@@ -32,4 +32,4 @@ nums.length == 2 * n
 1 <= n <= 500  
 1 <= nums[i] <= 500  
 
-![img.png](result_img/img2206.png)
+![img.png](../result_img/img2206.png)

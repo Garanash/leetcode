@@ -29,4 +29,4 @@ Output: 0
 1 <= candies[i] <= 10^7  
 1 <= k <= 10^12
 
-![img.png](result_img/img2226.png)
+![img.png](../result_img/img2226.png)

@@ -32,4 +32,4 @@ Output: 1
 1 <= nums.length <= 10^5  
 1 <= nums[i] <= 10^9  
 
-![img.png](result_img/img2401.png)
+![img.png](../result_img/img2401.png)

@@ -36,4 +36,4 @@ nums is sorted in a non-decreasing order.
 
 * Follow up: Can you solve the problem in O(log(n)) time complexity?  
 
-![img.png](result_img/img2529.png)
+![img.png](../result_img/img2529.png)

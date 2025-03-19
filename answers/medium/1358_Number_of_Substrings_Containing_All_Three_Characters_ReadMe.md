@@ -29,4 +29,4 @@ Output: 1
 s only consists of a, b or c characters.
 
 
-![img.png](result_img/img1358.png)
+![img.png](../result_img/img1358.png)

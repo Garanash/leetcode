@@ -34,4 +34,4 @@ Output: 3
 word consists only of lowercase English letters.  
 0 <= k <= word.length - 5
 
-![img.png](result_img/img3306.png)
+![img.png](../result_img/img3306.png)

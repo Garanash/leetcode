@@ -33,4 +33,4 @@ Output: 2
 1 <= nums.length <= 10^5  
 1 <= nums[i] <= 10^9  
 1 <= k <= (nums.length + 1)/2
-![img2560.png](result_img/img2560.png)
+![img2560.png](../result_img/img2560.png)

@@ -35,4 +35,4 @@ Output: 16
 1 <= ranks[i] <= 100  
 1 <= cars <= 10^6
 
-![img2594.png](result_img/img2594.png)
+![img2594.png](../result_img/img2594.png)

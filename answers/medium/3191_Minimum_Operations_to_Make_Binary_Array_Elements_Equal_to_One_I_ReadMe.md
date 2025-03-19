@@ -33,4 +33,4 @@ Output: -1
 3 <= nums.length <= 10^5  
 0 <= nums[i] <= 1
 
-![img.png](result_img/img3191.png)
+![img.png](../result_img/img3191.png)

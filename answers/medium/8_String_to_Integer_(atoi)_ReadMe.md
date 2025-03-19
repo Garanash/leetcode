@@ -81,4 +81,4 @@ Output: 0
 
 0 <= s.length <= 200  
 s consists of English letters (lower-case and upper-case), digits (0-9), ' ', '+', '-', and '.'.
-![img8.png](./result_img/img8.png)
+![img8.png](../result_img/img8.png)

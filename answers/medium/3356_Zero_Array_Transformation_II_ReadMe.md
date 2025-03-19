@@ -50,4 +50,4 @@ Output: -1
 queries[i].length == 3  
 0 <= li <= ri < nums.length  
 1 <= vali <= 5  
-![img.png](result_img/img3356.png)
+![img.png](../result_img/img3356.png)

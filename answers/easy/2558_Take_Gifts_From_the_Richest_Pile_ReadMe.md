@@ -38,4 +38,4 @@ Output: 4
 1 <= gifts[i] <= 109  
 1 <= k <= 103
 
-![img.png](result_img/img2558.png)
+![img.png](../result_img/img2558.png)

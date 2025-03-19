@@ -31,4 +31,4 @@ Output: [-1,-1]
 
 1 <= left <= right <= 10**6
 
-![img.png](result_img/img2523.png)
+![img.png](../result_img/img2523.png)

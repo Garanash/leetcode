@@ -45,4 +45,4 @@ n == code.length
 
 
 
-![img.png](result_img/img1652.png)
+![img.png](../result_img/img1652.png)

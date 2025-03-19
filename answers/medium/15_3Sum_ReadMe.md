@@ -37,4 +37,4 @@ Output: [[0,0,0]]
 3 <= nums.length <= 3000  
 -105 <= nums[i] <= 10**5
 
-![img.png](result_img/img15.png)
+![img.png](../result_img/img15.png)

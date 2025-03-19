@@ -36,4 +36,4 @@ n == blocks.length
 1 <= n <= 100   
 blocks[i] is either 'W' or 'B'.   
 1 <= k <= n!  
-![Снимок экрана 2025-03-09 в 10.47.36.png](./result_img/img2379.png)
+![Снимок экрана 2025-03-09 в 10.47.36.png](../result_img/img2379.png)

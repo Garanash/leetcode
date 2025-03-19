@@ -56,4 +56,4 @@ Output: 0
 3 <= colors.length <= 105  
 0 <= colors[i] <= 1  
 3 <= k <= colors.length  
-![img3208.png](./result_img/img3208.png)
+![img3208.png](../result_img/img3208.png)

@@ -27,4 +27,4 @@ Constraints:
 -1000 <= nums[i] <= 1000  
 -10**4 <= target <= 10**4
 
-![img.png](result_img/img16.png)
+![img.png](../result_img/img16.png)

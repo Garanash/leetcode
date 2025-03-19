@@ -31,5 +31,5 @@ Output: 3
 s consists of English letters, digits, symbols and spaces.
 
 
-![Для эффективного решения](result_img/img.png)  
-![Для неэффективного решения](result_img/img_1.png)
+![Для эффективного решения](../result_img/img.png)  
+![Для неэффективного решения](../result_img/img_1.png)

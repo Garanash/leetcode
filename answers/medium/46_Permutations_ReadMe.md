@@ -32,4 +32,4 @@ Output: [[1]]
 -10 <= nums[i] <= 10  
 All the integers of nums are unique.
 
-![Снимок экрана 2025-03-09 в 11.42.14.png](./result_img/img46.png)
+![Снимок экрана 2025-03-09 в 11.42.14.png](../result_img/img46.png)

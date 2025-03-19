@@ -36,4 +36,4 @@ Output: [1,0]
 2 <= nums.length <= 2000  
 0 <= nums[i] <= 1000  
 
-![img.png](result_img/img2460.png)
+![img.png](../result_img/img2460.png)
