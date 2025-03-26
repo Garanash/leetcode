@@ -1,6 +1,7 @@
 # 14. Longest Common Prefix
-## Easy
+<hr>
 
+## <span style="color: green">Easy</span>
 Write a function to find the longest common prefix string amongst an array of strings.
 If there is no common prefix, return an empty string "".
 

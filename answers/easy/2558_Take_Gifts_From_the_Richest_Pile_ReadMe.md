@@ -1,6 +1,7 @@
 # 2558. Take Gifts From the Richest Pile
+<hr>
 
-## Easy
+## <span style="color: green">Easy</span>
 
 You are given an integer array gifts denoting the number of gifts in various piles. Every second, you do the following:  
 Choose the pile with the maximum number of gifts.

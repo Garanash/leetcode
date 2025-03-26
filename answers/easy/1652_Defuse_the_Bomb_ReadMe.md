@@ -1,6 +1,7 @@
 # 1652. Defuse the Bomb
+<hr>
 
-# Easy
+## <span style="color: green">Easy</span>
 You have a bomb to defuse, and your time is running out! Your informer will provide you with a circular array code of length of n and a key k.
 
 To decrypt the code, you must replace every number. All the numbers are replaced simultaneously.

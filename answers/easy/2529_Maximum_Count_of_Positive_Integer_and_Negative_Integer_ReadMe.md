@@ -1,4 +1,5 @@
 # 2529. Maximum Count of Positive Integer and Negative Integer
+<hr>
 
 ## <span style="color: green">Easy</span>
 
