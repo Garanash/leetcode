@@ -1,6 +1,7 @@
 from typing import List
 from collections import Counter
 
+
 class Solution:
     def minimumIndex(self, nums: List[int]) -> int:
         lcount = 0
