@@ -1,5 +1,7 @@
 # 2965. Find Missing and Repeated Values
-## Easy
+<hr>
+
+## <span style="color: green">Easy</span>
 
 You are given a 0-indexed 2D integer matrix grid of size n * n with values in the range [1, n2].  
 Each integer appears exactly once except a which appears twice and b which is missing.   

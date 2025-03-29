@@ -2,7 +2,7 @@
 
 <hr>
 
-Medium
+## <span style="color: yellow">Medium</span>
 
 You are given an integer n. There is an undirected graph with n vertices, numbered from 0 to n - 1. You are given a 2D integer array edges where edges[i] = [ai, bi] denotes that there exists an undirected edge connecting vertices ai and bi.  
 Return the number of complete connected components of the graph.  
