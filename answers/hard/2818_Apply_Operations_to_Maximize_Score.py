@@ -24,13 +24,11 @@ class Solution:
 
         prime_scores = [get_prime_score(num) for num in nums]
 
-        # Step 3: Find subarray counts using monotonic stacks
         n = len(nums)
         left = [-1] * n
         right = [n] * n
         stack = []
 
-        # Find next greater element to the left
         for i in range(n):
             while stack and prime_scores[stack[-1]] < prime_scores[i]:
                 stack.pop()
